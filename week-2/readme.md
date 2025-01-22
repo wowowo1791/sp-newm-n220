@@ -6,6 +6,6 @@ What'd ya learn?
 
 ### Live Links
 
-[Internal Scripts](https://wowowo1791.github.io/sp-newm-n220/index.html)
+[Internal Scripts](https://wowowo1791.github.io/sp-newm-n220/week-2/index.html)
 
-[External Scripts](https://wowowo1791.github.io/sp-newm-n220/pumpkinpatch.html)
+[External Scripts](https://wowowo1791.github.io/sp-newm-n220/week-2/pumpkinpatch.html)
