@@ -2,7 +2,7 @@
 
 ### Weekly Recap
 
-What'd ya learn?
+This week we learned a little bit about the console and a few commands to debug webpages. We got started on making our own html page by adding an internal and external script, and we also added a .js file as an extension. I realized that a lot of things on Mac are hard to do for no reason.
 
 ### Live Links
 
