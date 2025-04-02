@@ -19,7 +19,7 @@ function loginUser(e) {
 
     for(let i= 0; i < users.length; i++) {
         const currentUser = users[i];
-        if(currentUser.username === usernameValue && currentUser.password === passwordValue) {
+        if(currentUser.username === usernameValue) {
             userFound = true;
 
             if(currentUser.password === passwordValue) {
@@ -57,7 +57,7 @@ function toggleLogin() {
         contentRef.style.display = "none";
     } else {
         loginFormRef.style.display = "none";
-        contentRef.style.display = "display";
+        contentRef.style.display = "block";
     }
 }
 
